@@ -7,9 +7,7 @@
 .App {
   width: 100%;
   min-height: 728px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  background-color: black;
 }
 
 @media (max-width: 600px) {
