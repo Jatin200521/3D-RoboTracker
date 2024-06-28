@@ -15,20 +15,17 @@
 @media (max-width: 600px) {
   .App {
     min-height: 500px;
-    padding: 20px;
   }
 }
 
 @media (min-width: 601px) and (max-width: 1200px) {
   .App {
     min-height: 600px;
-    padding: 40px;
   }
 }
 
 @media (min-width: 1201px) {
   .App {
     min-height: 728px;
-    padding: 60px;
   }
 }
