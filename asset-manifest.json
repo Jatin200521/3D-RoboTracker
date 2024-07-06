@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/3D-RoboTracker/static/css/main.20388ca4.css",
-    "main.js": "/3D-RoboTracker/static/js/main.14855511.js",
+    "main.css": "/3D-RoboTracker/static/css/main.4bdabf79.css",
+    "main.js": "/3D-RoboTracker/static/js/main.450587d2.js",
     "static/js/208.6c85a001.chunk.js": "/3D-RoboTracker/static/js/208.6c85a001.chunk.js",
     "static/js/293.1c1fc88e.chunk.js": "/3D-RoboTracker/static/js/293.1c1fc88e.chunk.js",
     "static/js/917.7cd9d8d1.chunk.js": "/3D-RoboTracker/static/js/917.7cd9d8d1.chunk.js",
@@ -12,8 +12,8 @@
     "static/js/23.cce9c2ee.chunk.js": "/3D-RoboTracker/static/js/23.cce9c2ee.chunk.js",
     "static/js/453.cbcdcb1e.chunk.js": "/3D-RoboTracker/static/js/453.cbcdcb1e.chunk.js",
     "index.html": "/3D-RoboTracker/index.html",
-    "main.20388ca4.css.map": "/3D-RoboTracker/static/css/main.20388ca4.css.map",
-    "main.14855511.js.map": "/3D-RoboTracker/static/js/main.14855511.js.map",
+    "main.4bdabf79.css.map": "/3D-RoboTracker/static/css/main.4bdabf79.css.map",
+    "main.450587d2.js.map": "/3D-RoboTracker/static/js/main.450587d2.js.map",
     "208.6c85a001.chunk.js.map": "/3D-RoboTracker/static/js/208.6c85a001.chunk.js.map",
     "293.1c1fc88e.chunk.js.map": "/3D-RoboTracker/static/js/293.1c1fc88e.chunk.js.map",
     "917.7cd9d8d1.chunk.js.map": "/3D-RoboTracker/static/js/917.7cd9d8d1.chunk.js.map",
@@ -25,7 +25,7 @@
     "453.cbcdcb1e.chunk.js.map": "/3D-RoboTracker/static/js/453.cbcdcb1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20388ca4.css",
-    "static/js/main.14855511.js"
+    "static/css/main.4bdabf79.css",
+    "static/js/main.450587d2.js"
   ]
 }
