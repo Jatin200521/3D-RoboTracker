@@ -8,6 +8,15 @@ function Header() {
         <Link className="links" to="/3D-RoboTracker">
           Home
         </Link>
+        <Link className="links" to="/about">
+          About
+        </Link>
+        <Link className="links" to="/instruction">
+          Instruction
+        </Link>
+        <Link className="links" to="/Contact">
+          Contact
+        </Link>
       </div>
     </nav>
   );
