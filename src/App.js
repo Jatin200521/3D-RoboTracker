@@ -1,18 +1,18 @@
-import Spline from "@splinetool/react-spline";
-import "./Style.css";
 import Header from "./Components/Header";
 import Main from "./Components/Main";
 import Footer from "./Components/Footer";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 export default function App() {
   return (
     <>
-      <Header />
-      <Main />
+      <BrowserRouter>
+        <Header />
+        <Routes>
+          <Route path="/3D-RoboTracker" element={<Main />} />
+        </Routes>
+      </BrowserRouter>
       <Footer />
-      <div className="App">
-        <Spline scene="https://prod.spline.design/Hzf0alncEtpS4fkw/scene.splinecode" />
-      </div>
     </>
   );
 }
