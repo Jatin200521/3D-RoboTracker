@@ -4,6 +4,9 @@ import "../Css/Header.css";
 function Header() {
   return (
     <nav className="nav-bar">
+      <div className="btn">
+        <p>3D RoboTracker</p>
+      </div>
       <div className="navigation">
         <Link className="links" to="/3D-RoboTracker">
           Home

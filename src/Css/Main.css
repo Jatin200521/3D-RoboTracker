@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 .App {
@@ -26,4 +27,46 @@
   .App {
     min-height: 728px;
   }
+}
+
+.Home {
+  width: 100%;
+  height: 98%;
+  margin-bottom: 2%;
+}
+.Home-text {
+  width: 50%;
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  color: white;
+}
+.Home-text > h1 {
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px 5px lavender;
+  transition: text-shadow 0.3s ease;
+  display: inline-block;
+}
+
+.Home-text > h1:hover {
+  animation: wave 0.5s ease-in-out infinite alternate;
+}
+
+@keyframes wave {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+.Home-text > p {
+  text-align: justify;
+  width: 70%;
+  font-size: 1.3rem;
+  margin-top: 3rem;
 }

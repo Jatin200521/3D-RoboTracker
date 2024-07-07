@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contact {
+  color: blue;
+  height: 748px;
+  width: 100%;
+}
