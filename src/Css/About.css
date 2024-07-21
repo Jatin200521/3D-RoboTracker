@@ -1,0 +1,11 @@
+.Page {
+  background-color: black;
+  width: 100%;
+  height: 728px;
+}
+.About {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
